@@ -21,11 +21,11 @@
 - I am a Full Stack Web Developer 
 - I am a React Native Developer 
 
-## :man_technologist: Contact Information 
+## :telephone-receiver: Contact Information 
 - :mailbox: Email: etorojahokon100@gmail.com
 - :telephone_receiver: +234 803 264 5840
 
-## :man_technologist: Hobbies 
+## :joystick: Hobbies 
 - :joystick: Gaming
 - :open_book: Reading
 - :soccer: Football
