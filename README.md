@@ -8,17 +8,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/etorojah.okon">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-success?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://twitter.com/EtorojahO">
-    <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-important?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=EtorojahOkon&style=plastic&color=blue" alt="Github Views"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=EtorojahOkon&style=plastic&color=blueviolet" alt="Github Views"/>
+
 
 ## :man_technologist: About Me 
 - I am a Full Stack Web Developer 
-- - I am a React Native Developer 
+- I am a React Native Developer 
 
 ## :man_technologist: Contact Information 
 - :mailbox: Email: etorojahokon100@gmail.com
@@ -31,7 +32,6 @@
 
 ## :fire: My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EtorojahOkon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtorojahOkon)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :hammer_and_wrench: Languages and Tools 
