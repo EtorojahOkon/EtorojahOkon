@@ -21,7 +21,7 @@
 - I am a Full Stack Web Developer 
 - I am a React Native Developer 
 
-## :telephone-receiver: Contact Information 
+## :telephone_receiver: Contact Information 
 - :mailbox: Email: etorojahokon100@gmail.com
 - :telephone_receiver: +234 803 264 5840
 
@@ -31,8 +31,10 @@
 - :soccer: Football
 
 ## :fire: My Stats 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EtorojahOkon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtorojahOkon)](https://github.com/anuraghazra/github-readme-stats)
+<div id="stats" align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EtorojahOkon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtorojahOkon)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 ## :hammer_and_wrench: Languages and Tools 
 <div>
