@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/etorojah-okon-87a033201">
     <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
