@@ -10,7 +10,7 @@
   <a href="https://twitter.com/EtorojahO">
     <img src="https://img.shields.io/badge/Twitter-important?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=EtorojahOkon&style=plastic&color=blue" alt="Github Views"/>
+
 </div>
 
 
